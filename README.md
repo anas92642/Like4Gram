@@ -19,7 +19,7 @@
 ##
 
 ### What is Like4Gram?
-[**Like4Gram**](https://github.com/RozhakXD/Like4Gram) is a secure tools for Termux users to grow their Instagram follower base. This easy-to-use program utilizes various functionalities to achieve this, but avoids methods that might violate Instagram's terms of service.
+[**Like4Gram**] is a secure tools for Termux users to grow their Instagram follower base. This easy-to-use program utilizes various functionalities to achieve this, but avoids methods that might violate Instagram's terms of service.
 
 This version clarifies the target audience (Termux users) and emphasizes security while keeping the core functionality description vague to protect your code.
 
