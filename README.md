@@ -1,6 +1,7 @@
 # FREE INSTAGRAM FOLLOWERS - WITH TERMUX
 <div align="center">
-  <img src="Data/Like4Gram.jpg">
+  <img src="![Like4Gram](https://github.com/user-attachments/assets/63eb0c4c-01c8-4f1b-af7b-8117111aae5c)
+">
   <br>
   <br>
   <p>
