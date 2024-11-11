@@ -30,7 +30,7 @@ First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to
 $ apt update -y
 $ apt upgrade -y
 $ pkg install git python-pip
-$ git clone (https://github.com/anas92642/Like4Gram)
+$ git clone https://github.com/anas92642/Like4Gram
 $ cd Like4Gram
 $ python -m pip install -r requirements.txt
 $ python Run.py
