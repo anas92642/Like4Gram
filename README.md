@@ -1,8 +1,6 @@
 # FREE INSTAGRAM FOLLOWERS - WITH TERMUX
 <div align="center">
-  <img src=
-
-">
+  <img src="Data/Like4Gram.jpg">
   <br>
   <br>
   <p>
@@ -19,19 +17,17 @@
 ##
 
 ### What is Like4Gram?
-[**Like4Gram**] is a secure tools for Termux users to grow their Instagram follower base. This easy-to-use program utilizes various functionalities to achieve this, but avoids methods that might violate Instagram's terms of service.
+[**Like4Gram**](https://github.com/RozhakXD/Like4Gram) is a secure tools for Termux users to grow their Instagram follower base. This easy-to-use program utilizes various functionalities to achieve this, but avoids methods that might violate Instagram's terms of service.
 
 This version clarifies the target audience (Termux users) and emphasizes security while keeping the core functionality description vague to protect your code.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on 
-. Then you enter this command into termux!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/23WpKsOlnb0). Then you enter this command into termux!
 ```
-$ apt update -y
-$ apt upgrade -y
+$ apt update -y && apt upgrade -y
 $ pkg install git python-pip
-$ git clone https://github.com/anas92642/Like4Gram
-$ cd Like4Gram
+$ git clone https://github.com/RozhakXD/Like4Gram
+$ cd "Like4Gram"
 $ python -m pip install -r requirements.txt
 $ python Run.py
 ```
@@ -64,5 +60,3 @@ $ python Run.py
 print("Thank You!")
 ```
 ##
-   ![WhatsApp Image 2024-11-10 at 7 23 13 PM](https://github.com/user-attachments/assets/b7df6037-1ce5-475f-86ef-af7d75f88ef8)
-![Like4Gram](https://github.com/user-attachments/assets/f8d069f5-3e60-42a6-9826-628d48c75d0e)
