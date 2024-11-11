@@ -23,12 +23,14 @@
 This version clarifies the target audience (Termux users) and emphasizes security while keeping the core functionality description vague to protect your code.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/23WpKsOlnb0). Then you enter this command into termux!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on 
+. Then you enter this command into termux!
 ```
-$ apt update -y && apt upgrade -y
+$ apt update -y
+$ apt upgrade -y
 $ pkg install git python-pip
 $ git clone https://github.com/RozhakXD/Like4Gram
-$ cd "Like4Gram"
+$ cd Like4Gram
 $ python -m pip install -r requirements.txt
 $ python Run.py
 ```
